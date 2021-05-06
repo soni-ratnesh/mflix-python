@@ -13,7 +13,7 @@ Faker==0.8.13
 flake8==3.7.8
 Flask==1.0
 Flask-Bcrypt==0.7.1
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-JWT-Extended==3.7.0
 Flask-Login==0.4.0
 importlib-metadata==0.23
